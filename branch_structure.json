@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/compression-failure-paths-908",
+    "main",
+    "origin",
+    "test/correlation-id-sanitisation"
+  ],
+  "parent": {
+    "fix/compression-failure-paths-908": "main",
+    "main": null,
+    "origin": "main",
+    "test/correlation-id-sanitisation": "main"
+  },
+  "order": [
+    "main",
+    "fix/compression-failure-paths-908",
+    "origin",
+    "test/correlation-id-sanitisation"
+  ]
+}
